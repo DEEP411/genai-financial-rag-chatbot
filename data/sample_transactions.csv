@@ -1,0 +1,51 @@
+date,description,category,amount,type,balance
+2024-01-01,Opening Balance,Salary,2500.00,credit,2500.00
+2024-01-02,Whole Foods Market,Groceries,-125.50,debit,2374.50
+2024-01-03,Starbucks Coffee,Dining,-8.75,debit,2365.75
+2024-01-05,Monthly Rent Payment,Rent,-1500.00,debit,865.75
+2024-01-06,Uber Trip,Transportation,-22.45,debit,843.30
+2024-01-08,Netflix Subscription,Entertainment,-15.99,debit,827.31
+2024-01-09,Trader Joe's,Groceries,-87.20,debit,740.11
+2024-01-12,Salary Deposit,Salary,2500.00,credit,3240.11
+2024-01-13,Electric Company,Utilities,-95.30,debit,3144.81
+2024-01-15,AMC Theaters,Entertainment,-35.00,debit,3109.81
+2024-01-16,Chipotle Grill,Dining,-12.50,debit,3097.31
+2024-01-18,Target Shopping,Shopping,-156.75,debit,2940.56
+2024-01-20,Gas Station,Transportation,-55.00,debit,2885.56
+2024-01-22,Italian Restaurant,Dining,-65.50,debit,2820.06
+2024-01-25,Costco Membership Renewal,Shopping,-60.00,debit,2760.06
+2024-02-01,Water Bill,Utilities,-35.50,debit,2724.56
+2024-02-02,Kroger Groceries,Groceries,-98.30,debit,2626.26
+2024-02-05,Monthly Rent,Rent,-1500.00,debit,1126.26
+2024-02-06,Spotify Premium,Entertainment,-9.99,debit,1116.27
+2024-02-08,Salary Deposit,Salary,2500.00,credit,3616.27
+2024-02-10,IKEA Furniture,Shopping,-450.00,debit,3166.27
+2024-02-12,Whole Foods,Groceries,-112.75,debit,3053.52
+2024-02-14,Dinner Date,Dining,-95.75,debit,2957.77
+2024-02-16,Lyft Rides,Transportation,-48.20,debit,2909.57
+2024-02-18,Amazon Prime Video,Entertainment,-14.99,debit,2894.58
+2024-02-20,Movie Theater,Entertainment,-28.00,debit,2866.58
+2024-02-22,Trader Joe's Groceries,Groceries,-79.45,debit,2787.13
+2024-02-26,Internet Bill,Utilities,-79.99,debit,2707.14
+2024-03-01,Salary Deposit,Salary,2500.00,credit,5207.14
+2024-03-02,Whole Foods Market,Groceries,-134.60,debit,5072.54
+2024-03-05,Monthly Rent Payment,Rent,-1500.00,debit,3572.54
+2024-03-07,Gas Station Fill Up,Transportation,-62.30,debit,3510.24
+2024-03-10,Fine Dining Experience,Dining,-185.50,debit,3324.74
+2024-03-12,Gaming Console,Entertainment,-499.99,debit,2824.75
+2024-03-15,Costco Run,Groceries,-156.80,debit,2667.95
+2024-03-18,Uber Eats,Dining,-35.20,debit,2632.75
+2024-03-20,Electric Bill,Utilities,-102.45,debit,2530.30
+2024-03-22,Clothing Store,Shopping,-189.50,debit,2340.80
+2024-04-01,Salary Deposit,Salary,2500.00,credit,4840.80
+2024-04-02,Safeway Groceries,Groceries,-95.75,debit,4745.05
+2024-04-05,Monthly Rent,Rent,-1500.00,debit,3245.05
+2024-04-08,Concert Tickets,Entertainment,-125.00,debit,3120.05
+2024-04-10,Coffee Shop,Dining,-7.50,debit,3112.55
+2024-04-12,Gas Station,Transportation,-58.00,debit,3054.55
+2024-04-15,Whole Foods,Groceries,-118.90,debit,2935.65
+2024-04-18,Vacation Planning Deposit,Shopping,-200.00,debit,2735.65
+2024-04-20,Restaurant Dinner,Dining,-72.45,debit,2663.20
+2024-04-22,Water and Gas Bills,Utilities,-115.75,debit,2547.45
+2024-04-25,Pharmacy Purchase,Shopping,-42.30,debit,2505.15
+2024-05-01,Salary Deposit,Salary,2500.00,credit,5005.15
